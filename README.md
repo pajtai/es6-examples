@@ -8,3 +8,4 @@ npm install
 node .
 ```
 
+![](http://g.recordit.co/kdRuzhvq5I.gif)

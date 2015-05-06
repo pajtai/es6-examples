@@ -9,7 +9,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "bluebird": "^2.9.25",
+    "console-highlight": "^0.1.0",
     "es6-module-loader": "^0.16.6",
+    "prompt": "^0.2.14",
     "traceur": "0.0.89"
   }
 }
