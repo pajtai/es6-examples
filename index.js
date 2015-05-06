@@ -10,10 +10,10 @@ var prompt = require('prompt');
 clear();
 
 BB.each([
-    //'arrow-function',
+    'arrow-function',
     'classes',
     'let',
-    //'object-deconstruction'
+    'object-deconstruction'
 ], function(module) {
 
     chain = chain
