@@ -13,7 +13,8 @@ BB.each([
     'arrow-function',
     'classes',
     'let',
-    'object-deconstruction'
+    'object-deconstruction',
+    'templating'
 ], function(module) {
 
     chain = chain
